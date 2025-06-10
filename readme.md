@@ -8,6 +8,8 @@
 ## TESTADOR DO JOGO
 RA:1138099
 NOME:Arthur Risson
+RA: 1138670
+NOME:Diogo Sartorelli
 
 ## 📖 História do Jogo
 
